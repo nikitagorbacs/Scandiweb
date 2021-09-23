@@ -1,0 +1,9 @@
+.hidden {
+    display: none;
+}
+
+label{
+    line-height: 32px;
+    font-size: 18px;
+}
+
